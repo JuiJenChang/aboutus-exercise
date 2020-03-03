@@ -1,0 +1,51 @@
+.nav{
+    width: 1440px;
+    height: 212px;
+    object-fit: contain;
+    display: flex;
+    position: relative;
+    margin-bottom: 60px;
+}
+.nav-img{
+    width: 114px;
+    height: 125px;
+    object-fit: contain;
+    position: absolute;
+    top: 43px;
+    left: 163px;
+    bottom: 44px;
+}
+.nav-ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+    height: 25px;
+    position: absolute;
+    top: 81px;
+    left: 445px;
+    bottom: 106px;
+    right: 150px;
+}
+.nav-ul a{
+    text-decoration: none;
+}
+.nav-ul a:visited{
+    color: #2f3852;
+}
+.nav-ul a:hover{
+    color: #f1404b;
+}
+.nav-ul li{
+    width: 126px;
+    height: 25px;
+    font-size: 21px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.14;
+    letter-spacing: normal;
+    text-align: center;
+    color: #2f3852;
+}

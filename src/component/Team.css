@@ -1,0 +1,24 @@
+.team{
+    width: 1107px;
+    margin-left: 167px;
+    position: relative;
+    margin-bottom: 118px;
+}
+.team h4{
+    width: 148px;
+    height: 48px;
+    font-size: 36px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: 0.8px;
+    color: #2f3852;
+    margin-top: 44px;
+    margin-left: 479px;
+}
+.teammate{
+    display: flex;
+    justify-content: space-around;
+}
+

@@ -1,0 +1,151 @@
+.footer{
+    width: 1440px;
+    height: 312px;
+    background-color: #2f3852;
+    position: relative;
+}
+.footer a{
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+}
+.footer a:hover{
+    color: #868686;
+}
+.footer p{
+    font-size: 16px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+}
+.place img{
+    width: 16px;
+    height: 22px;
+    object-fit: contain;
+}
+.sgp-location{
+    position: absolute;
+    top: 112px;
+    left: 154px;
+}
+.sz-location{
+    position: absolute;
+    top: 212px;
+    left: 154px;
+}
+.singapore{
+    width: 339px;
+    height: 31px;
+    color: #829aba;
+    margin: 0;
+    position: absolute;
+    top: 70px;
+    left: 154px;
+}
+.singapore-place{
+    width: 314px;
+    height: 57px;
+    color: #ffffff;
+    margin: 0;
+    position: absolute;
+    top: 112px;
+    left: 179px;
+}
+.shenzhen{
+    width: 339px;
+    height: 31px;
+    color: #829aba;
+    margin: 0;
+    position: absolute;
+    top: 183px;
+    left: 154px;
+}
+.shenzhen-place{
+    width: 303px;
+    height: 78px;
+    color: #ffffff;
+    margin: 0;
+    position: absolute;
+    top: 212px;
+    left: 179px;
+}
+.content-1{
+    width: 118px;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    position: absolute;
+    top: 76px;
+    left: 553px;
+}
+.content-1 p{
+    font-size: 21px;
+    color: #f1404b;
+    margin: 0;
+}
+.content-2{
+    width: 118px;
+    height: 160px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    position: absolute;
+    top: 75px;
+    left: 753px;
+}
+.content-2 p{
+    font-size: 21px;
+    color: #f1404b;
+    margin: 0;
+}
+.wechat{
+    width: 39px;
+    height: 39px;
+    object-fit: contain;
+    position: absolute;
+    top: 125px;
+    right: 316px;
+    cursor: pointer;
+}
+.phone{
+    width: 39px;
+    height: 39px;
+    object-fit: contain;
+    position: absolute;
+    top: 125px;
+    right: 236px;
+    cursor: pointer;
+}
+.email{
+    width: 39px;
+    height: 39px;
+    object-fit: contain;
+    position: absolute;
+    top: 125px;
+    right: 155px;
+    cursor: pointer;
+}
+.copyright{
+    width: 396px;
+    height: 46px;
+    text-align: right;
+    color: #ffffff;
+    position: absolute;
+    top: 189px;
+    right: 155px;
+    margin: 0;
+}
+.icp{
+    width: 374px;
+    height: 46px;
+    text-align: right;
+    color: #ffffff;
+    position: absolute;
+    top: 211px;
+    right: 155px;
+    margin: 0;
+}

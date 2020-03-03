@@ -1,0 +1,64 @@
+.service{
+    width: 1107px;
+    height: 438px;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.21;
+    letter-spacing: 0.31px;
+    color: #35383b;
+    margin-left: 167px;
+    position: relative;
+}
+.service img{
+    width: 180px;
+    height: 120px;
+}
+.service-img1{
+    position: absolute;
+    top: 80px;
+    left: 190px;
+}
+.service-img2{
+    position: absolute;
+    top: 80px;
+    left: 480px;
+}
+.service-img3{
+    position: absolute;
+    top: 80px;
+    right: 160px;
+}
+.service-p-1{
+    text-align: center;
+}
+.service-p-2{
+    position: absolute;
+    bottom: 0;
+}
+.service-items p{
+    width: 190px;
+    height: 45px;
+    font-size: 18px;
+    line-height: 1.11;
+    letter-spacing: 0.6px;
+    text-align: center;
+    color: #253042;
+    margin: 0;
+}
+.service-item-p1{
+    position: absolute;
+    top: 250px;
+    left: 185px;
+}
+.service-item-p2{
+    position: absolute;
+    top: 250px;
+    left: 470px;
+}
+.service-item-p3{
+    position: absolute;
+    top: 250px;
+    right: 155px;
+}
